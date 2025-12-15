@@ -1,0 +1,85 @@
+/* General Styles */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f6f8;
+    color: #333;
+}
+
+/* Header */
+header {
+    background-color: #1f2933;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    margin-bottom: 5px;
+}
+
+header p {
+    font-size: 14px;
+    color: #d1d5db;
+}
+
+/* Sections */
+section {
+    background-color: white;
+    margin: 20px auto;
+    padding: 20px;
+    width: 80%;
+    border-radius: 6px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Headings */
+h2 {
+    color: #1f2933;
+    border-bottom: 2px solid #e5e7eb;
+    padding-bottom: 5px;
+}
+
+h3 {
+    color: #2563eb;
+    margin-top: 20px;
+}
+
+/* Course Prices */
+strong {
+    color: #059669;
+}
+
+/* List */
+ul {
+    padding-left: 20px;
+}
+
+ul li {
+    margin-bottom: 8px;
+}
+
+/* Contact Section */
+section p {
+    line-height: 1.6;
+}
+
+/* Footer */
+footer {
+    background-color: #1f2933;
+    color: white;
+    text-align: center;
+    padding: 12px;
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+/* Horizontal Line */
+hr {
+    border: none;
+    height: 1px;
+    background-color: #e5e7eb;
+    width: 80%;
+    margin: 20px auto;
+}
